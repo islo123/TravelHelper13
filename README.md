@@ -1,3 +1,3 @@
 # TravelHelper13
 travelsite
-Tässä linkki tästä web-sivusta https://github.io/TravelHleper13/
+Tässä linkki tästä web-sivusta https://islo123.github.io/TravelHelper13/
